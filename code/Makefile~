@@ -1,0 +1,4 @@
+CFLAGS = -g -Wall
+
+default: 
+	gcc -o hellomake hellomake.c
